@@ -5,7 +5,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/opabloliver/linktree?color=04D361&labelColor=000000">
   
   <a href="https://www.linkedin.com/in/opabloliver/">
-    <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=João%20Pablo&color=04D361&labelColor=000000">
+    <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=%20JPablo&color=04D361&labelColor=000000">
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/opabloliver/linktree?color=04D361&labelColor=000000">
